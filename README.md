@@ -15,3 +15,6 @@ This repository hosts a sample bash script `simple-interest.sh` that prompts the
 
 ## License
 This project is available under the Apache License 2.0. See the `LICENSE` file.
+
+
+2023 XYZ, Inc.
